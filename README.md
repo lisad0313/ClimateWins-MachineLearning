@@ -15,13 +15,17 @@ Although ClimateWins is fictitious, the data used for this project is real, and 
 ## Folders
 
 Data Sets
+
 Project Brief
+
 Scripts
 
 ## Tools
 
 Python
+
 Jupiter Notebook
+
 PowerPoint
 
 ## Presentation 
