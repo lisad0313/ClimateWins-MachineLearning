@@ -29,4 +29,5 @@ Jupiter Notebook
 PowerPoint
 
 ## Presentation 
-coming soon
+
+[Analyzing Weather with ClimateWins](https://drive.google.com/file/d/1Oo4VDNu_8xVzZkUADmVQXC6XCuv7y0as/view?usp=sharing)
