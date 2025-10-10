@@ -30,4 +30,6 @@ PowerPoint
 
 ## Interim Report Presentation 
 
-[Analyzing Weather with ClimateWins](https://drive.google.com/file/d/10JIzYe2Y1au2qJ9eugQtYLVk_j_eJqMW/view?usp=sharing)
+Slides: [Analyzing Weather with ClimateWins](https://drive.google.com/file/d/10JIzYe2Y1au2qJ9eugQtYLVk_j_eJqMW/view?usp=sharing)
+
+Video presentation: [Climate Wins Interim Report](https://youtu.be/X-_5LLrFZ24)
