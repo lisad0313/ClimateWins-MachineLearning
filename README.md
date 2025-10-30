@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the datasets, Python Scripts and analysis performed throughout CareerFoundry's Specialization course in Machine Learning. 
+This repository contains the datasets, Python Scripts and analysis performed throughout the first achievement of CareerFoundry's Specialization course in Machine Learning. 
 
 ## Project Background
 
@@ -24,7 +24,7 @@ Scripts
 
 Python
 
-Jupiter Notebook
+Jupyter Notebook
 
 PowerPoint
 
